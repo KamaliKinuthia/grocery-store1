@@ -1,0 +1,12 @@
+{
+    "require": {
+        "safaricom/mpesa": "^1.0",
+        "africastalking/africastalking-php": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.example.com"
+        }
+    ]
+}
